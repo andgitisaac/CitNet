@@ -1,0 +1,2 @@
+mkdir -p data
+wget https://originalstatic.aminer.cn/misc/dblp.v12.7z -O data/dplp.v12.7z
