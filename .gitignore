@@ -2,4 +2,5 @@
 *.DS_Store
 
 *.json
-*.7z
+*.log
+data/dblp.v12.7z
