@@ -1,6 +1,11 @@
 *.pyc
 *.DS_Store
-
-*.json
 *.log
-data/dblp.v12.7z
+.vscode
+
+
+data/dblp/
+data/CoRA_Raw/raw
+data/CoRA_Raw/preprocess.py
+data/CoRA_Small/raw
+data/CoRA_Small/preprocess.py
