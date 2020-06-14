@@ -2,11 +2,11 @@
 *.DS_Store
 *.log
 .vscode
+.gitignore
 
 
-data/dblp/
-data/CoRA_Raw/raw
+# data/CoRA_Raw/raw
 data/CoRA_Raw/preprocess.py
-data/CoRA_Small/raw
+# data/CoRA_Small/raw
 data/CoRA_Small/preprocess.py
 data/CoRA_Small/renumber.py
